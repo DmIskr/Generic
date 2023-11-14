@@ -42,8 +42,6 @@ public class Generic <T,V,K> {
         System.out.println("Тип V: " + ob2.getClass().getName());
     }
 
-
-
     @Override
     public String toString() {
         return "Generic{" +
