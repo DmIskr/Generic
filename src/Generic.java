@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Generic <T,V,K> {
 
     T ob1;

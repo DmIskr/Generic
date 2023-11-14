@@ -1,5 +1,3 @@
-
-
 public class Main {
     public static void main(String[] args) {
         Generic<Integer, String, Double> threegenObj = new Generic<Integer, String, Double>(77, "abc", 2.5);
