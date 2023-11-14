@@ -8,6 +8,5 @@ public class Main {
         double num3 = threegenObj.getOb3();
 
         System.out.println(threegenObj);
-
     }
 }
